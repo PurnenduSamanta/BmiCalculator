@@ -1,5 +1,7 @@
 # BMI Calculator
 
+Calculate your BMI with attractive UI in FLutter 
+
 ![Sceenshot1](https://user-images.githubusercontent.com/69786552/104414183-cf386600-5595-11eb-8fed-506b4b749127.jpeg)
 
 
